@@ -1,0 +1,18 @@
+"use strict";
+console.log("Hello typescript!");
+var a = 1051;
+console.log("typeof a: " + typeof a);
+var b = 'apples and oranges';
+console.log("typeof b: " + typeof b);
+var c = 'pineaplles';
+console.log("typeof c: " + typeof c);
+var d = [true, true, false];
+console.log("typeof d: " + typeof d);
+var e = { type: 'fiscus' };
+console.log("typeof e: " + typeof e);
+var f = [1, false];
+console.log("typeof f: " + typeof f);
+var g = [3];
+console.log("typeof g: " + typeof g);
+var h = null;
+console.log("typeof h: " + typeof h);
